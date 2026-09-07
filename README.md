@@ -19,5 +19,6 @@ ETHIXAIM operates entirely within your browser's volatile memory (RAM). There ar
 * **Deliberately Minimal:** Text, voice notes, and instant photos only. Video capture and heavy streaming features were deliberately removed to eliminate attack surfaces and keep payload sizes microscopic.
 
 ---
+The code i had is based on my previous work please have a feed back on the website is pushing me to getting better even if i know i am more as a script kiddie
 
 https://ethixaim.ai.studio/
