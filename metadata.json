@@ -1,0 +1,6 @@
+{
+  "name": "Ephemeral P2P Messenger",
+  "description": "Zero-backend, serverless P2P messaging with X25519 cryptography, WebRTC data channels, decentralized mesh signaling, and 60-second auto-destruct.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
